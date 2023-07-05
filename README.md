@@ -1,2 +1,1 @@
 # -Foodalytics-Explore-the-e-food-Insights-Big-Blue-Data-Academy-Efood
-As part of a dynamic team with Maria Vasilaki, Kyriakos Liapis, and mentor Dimitris Mousadakos, I led a successful eFood data analysis project.We performed thorough data cleansing, exploratory analysis, and utilized various analytical techniques.Our findings offered valuable insights and strategic recommendations for optimizing eFood business.
